@@ -18,6 +18,7 @@ ReactDOM.render(
     </Provider>,
     document.getElementById("app")
 );
+
 //Without REDUX
 // ReactDOM.render(
 //     <Router history={browserHistory}>
